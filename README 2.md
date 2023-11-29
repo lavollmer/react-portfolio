@@ -2,7 +2,7 @@
 
 ## Description
 
-This project was to build a personal portfolio page with React.
+This project was to build a personal portfolio page with React. The design includes mobile-first, personalized color theme, and animation utilization. The site meets many accessibility criteria.
 
 ## Table of Contents
 
@@ -30,7 +30,8 @@ Portfolio Page:
 ## Technical Requirements
 Technical requirements for the application include:
 * React
-* React-dom
+* react-router-dom
+* Netifly
 
   <a id="credits"></a>
 ## Credits
