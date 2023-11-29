@@ -2,7 +2,7 @@
 
 ## Description
 
-This project was to build a portfolio page with React.
+This project was to build a personal portfolio page with React.
 
 ## Table of Contents
 
@@ -22,15 +22,15 @@ Portfolio Page:
   <a id="websitelinks"></a>
 ## Website Links
 
-* Github Repo:
+* Github Repo:https://github.com/lavollmer/react-portfolio
 
-* Video Demonstration: 
+* Netifly: 
 
   <a id="technicalrequirements"></a>
 ## Technical Requirements
 Technical requirements for the application include:
 * React
-* 
+* React-dom
 
   <a id="credits"></a>
 ## Credits
