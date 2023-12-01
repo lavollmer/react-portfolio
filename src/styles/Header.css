@@ -1,6 +1,7 @@
 .header {
-  background: darkblue;
+  background: #00008b;
   height: 200px;
+  padding: 20px;
 }
 
 .header h1 {
