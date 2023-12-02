@@ -32,7 +32,8 @@ Technical requirements for the application include:
 * React
 * react-router-dom
 * Netifly
-* Font Awesome
+* Icons8
+
 
   <a id="credits"></a>
 ## Credits
